@@ -1,0 +1,32 @@
+{
+  "capitals": [
+    {
+      "name": "Paris",
+      "country": "France",
+      "population": "2.14M",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    {
+      "name": "Berlin",
+      "country": "Germany",
+      "population": "3.64M",
+      "lat": 52.5200,
+      "lng": 13.4050
+    },
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "population": "13.51M",
+      "lat": 35.6895,
+      "lng": 139.6917
+    },
+    {
+      "name": "Washington, D.C.",
+      "country": "United States",
+      "population": "0.70M",
+      "lat": 38.8951,
+      "lng": -77.0364
+    }
+  ]
+}
